@@ -19,7 +19,7 @@
     <!-- Right Side Hank Orion Headshot -->
     <div class="hero-image-wrapper">
       <img
-        src="/assets/hank-orion.jpeg"
+        src="assets/hank-orion.jpeg"
         alt="Hank Orion"
         class="hero-image"
       />

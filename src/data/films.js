@@ -6,7 +6,7 @@ export const films = [
     genre: "Romance",
     role: "Writer · Director",
     imdbUrl: "https://www.imdb.com/title/tt36555390",
-    poster: "/posters/Across.jpg"
+    poster: "posters/Across.jpg"
   },
           {
     title: "Love by Chance, Again",
@@ -15,7 +15,7 @@ export const films = [
     genre: "Romance",
     role: "Writer · Director",
     imdbUrl: "https://www.imdb.com/title/tt37719261",
-    poster: "/posters/Chance.jpg"
+    poster: "posters/Chance.jpg"
   },
           {
     title: "Exposure",
@@ -24,7 +24,7 @@ export const films = [
     genre: "Horror · Mystery",
     role: "Writer · Director",
     imdbUrl: "https://www.imdb.com/title/tt37021139",
-    poster: "/posters/Exposure.jpg"
+    poster: "posters/Exposure.jpg"
   },
         {
     title: "Napoleon's Table",
@@ -33,7 +33,7 @@ export const films = [
     genre: "Thriller",
     role: "Writer · Director",
     imdbUrl: "https://www.imdb.com/title/tt36132636/",
-    poster: "/posters/NapTable.jpg"
+    poster: "posters/NapTable.jpg"
   },
         {
     title: "Outsiders",
@@ -42,7 +42,7 @@ export const films = [
     genre: "Thriller",
     role: "Writer · Director",
     imdbUrl: "https://www.imdb.com/title/tt32366671",
-    poster: "/posters/Outsiders.jpg"
+    poster: "posters/Outsiders.jpg"
   },
         {
     title: "Man of the Cosmos",
@@ -51,7 +51,7 @@ export const films = [
     genre: "Mystery · Sci-Fi",
     role: "Writer · Director",
     imdbUrl: "https://www.imdb.com/title/tt32365627",
-    poster: "/posters/Cosmos.jpg"
+    poster: "posters/Cosmos.jpg"
   },
         {
     title: "The Man",
@@ -60,7 +60,7 @@ export const films = [
     genre: "Mystery · Drama",
     role: "Writer · Director",
     imdbUrl: "https://www.imdb.com/title/tt25394858",
-    poster: "/posters/Man.png"
+    poster: "posters/Man.png"
   },
         {
     title: "Following",
@@ -69,7 +69,7 @@ export const films = [
     genre: "Thriller",
     role: "Writer · Director",
     imdbUrl: "https://www.imdb.com/title/tt23809464",
-    poster: "/posters/Following.jpg"
+    poster: "posters/Following.jpg"
   },
         {
     title: "Osaka",
@@ -78,7 +78,7 @@ export const films = [
     genre: "Japanese · Drama",
     role: "Writer · Director",
     imdbUrl: "https://www.imdb.com/title/tt18765996",
-    poster: "/posters/Osaka.jpg"
+    poster: "posters/Osaka.jpg"
   },
         {
     title: "Spooked",
@@ -87,7 +87,7 @@ export const films = [
     genre: "Drama",
     role: "Writer · Director",
     imdbUrl: "https://www.imdb.com/title/tt22499822",
-    poster: "/posters/Spooked.jpg"
+    poster: "posters/Spooked.jpg"
   },
         {
     title: "Love in the City",
@@ -96,7 +96,7 @@ export const films = [
     genre: "Romance",
     role: "Writer · Director",
     imdbUrl: "https://www.imdb.com/title/tt21375000",
-    poster: "/posters/LoveCity.jpg"
+    poster: "posters/LoveCity.jpg"
   },
         {
     title: "I See Darkness",
@@ -105,7 +105,7 @@ export const films = [
     genre: "Drama · Mystery",
     role: "Director",
     imdbUrl: "https://www.imdb.com/title/tt13588604",
-    poster: "/posters/Darkness.jpg"
+    poster: "posters/Darkness.jpg"
   },
       {
     title: "The Ritual",
@@ -114,7 +114,7 @@ export const films = [
     genre: "Comedy",
     role: "Writer · Director",
     imdbUrl: "https://www.imdb.com/title/tt13141604",
-    poster: "/posters/Ritual.jpg"
+    poster: "posters/Ritual.jpg"
   },
     {
     title: "Honey and Wine",
@@ -123,7 +123,7 @@ export const films = [
     genre: "Comedy · Drama",
     role: "Writer · Director",
     imdbUrl: "https://www.imdb.com/title/tt9193890",
-    poster: "/posters/Honey.jpg"
+    poster: "posters/Honey.jpg"
   },
   {
     title: "The Job",
@@ -132,7 +132,7 @@ export const films = [
     genre: "Drama · Thriller",
     role: "Writer · Director",
     imdbUrl: "https://www.imdb.com/title/tt5374002/",
-    poster: "/posters/Job.jpg"
+    poster: "posters/Job.jpg"
   },
   {
     title: "Despair",
@@ -141,7 +141,7 @@ export const films = [
     genre: "Drama · Thriller",
     role: "Writer · Director",
     imdbUrl: "https://www.imdb.com/title/tt5238824",
-    poster: "/posters/Despair.jpg"
+    poster: "posters/Despair.jpg"
   },
   {
     title: "Inside The Room",
@@ -150,7 +150,7 @@ export const films = [
     genre: "Documentary",
     role: "Director",
     imdbUrl: "https://www.imdb.com/title/tt0000002/",
-    poster: "/posters/example-doc-1.jpg"
+    poster: "posters/example-doc-1.jpg"
   },
   {
     title: "Night Calls",
@@ -159,6 +159,6 @@ export const films = [
     genre: "Drama · Thriller",
     role: "Creator",
     imdbUrl: "https://www.imdb.com/title/tt0000003/",
-    poster: "/posters/example-series-1.jpg"
+    poster: "posters/example-series-1.jpg"
   }
 ];

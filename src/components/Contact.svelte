@@ -11,13 +11,12 @@
         is open to conversations with producers, actors and partners.
       </p>
 
-      <a href="mailto:hank@hankorion.com" class="btn-primary">
-        Email
-      </a>
-
       <p class="contact-note">
         Please do not send any unsolicited materials. Any resemblance to your work is purely coincidental.
       </p>
+         <a href="mailto:hank@hankorion.com" class="btn-primary">
+        Send Email
+      </a>
     </div>
   </div>
 </section>
