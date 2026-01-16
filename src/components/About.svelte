@@ -1,7 +1,7 @@
 <section class="section section-about">
   <div class="container section-inner">
     <div class="section-header">
-      <h2>About Hank</h2>
+     
     </div>
 
     <div class="about-grid">

@@ -4,8 +4,11 @@
     <p class="footer-meta">
       Hank Orion © All rights reserved.
     </p>
-    <p class="footer-meta small">
-      Site design by San Roku Ku.
-    </p>
+ <p class="footer-meta small">
+  <a href="https://sanrokuku.com/services" target="_blank" rel="noopener noreferrer">
+    Site design by San Roku Ku
+  </a>
+</p>
+
   </div>
 </footer>

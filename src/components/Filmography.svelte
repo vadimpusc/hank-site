@@ -9,12 +9,6 @@
 
 <section class="section section-filmography">
   <div class="container section-inner">
-    <div class="section-header">
-      <h2>Filmography</h2>
-      <p class="section-kicker">
-        Feature films, documentaries and series created and directed by Hank Orion
-      </p>
-    </div>
 
     {#each categories as category}
       {#if filmsByCategory(category).length}
