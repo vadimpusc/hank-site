@@ -457,10 +457,12 @@ main {
   padding: 1.8rem 0 2.2rem;
   border-top: 1px solid rgba(224,224,230,0.8);
   background: rgba(248,248,250,0.95);
+  display: none;
 }
 
 .footer-inner {
   text-align: center;
+   display: none;
 }
 
 .footer-brand {
