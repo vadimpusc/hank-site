@@ -315,7 +315,10 @@ main {
 }
 
 .section-filmography {
-  background: transparent;
+  background: white;
+  padding-top: 0;
+  padding-bottom: 0;
+  /* height: 100vh; */
 }
 
 .film-category {
@@ -331,8 +334,8 @@ main {
 
 .film-grid {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 1rem;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 10px;
 }
 
 .film-card {
@@ -375,6 +378,7 @@ main {
 .film-meta {
   padding: 0.75rem 0.85rem 0.9rem;
   /* text-align: center; */
+  display: none;
 }
 
 .film-title {
