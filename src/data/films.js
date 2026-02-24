@@ -1,4 +1,13 @@
 export const films = [
+  {
+    title: "Across Two Skies",
+    year: 2026,
+    category: "Film",
+    genre: "Drama",
+    role: "Writer · Director",
+    imdbUrl: "https://www.imdb.com/title/tt39474207",
+    poster: "posters/River.png"
+  },
           {
     title: "Across Two Skies",
     year: 2026,
